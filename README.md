@@ -1,5 +1,5 @@
 # feluletepito
-Repository of the Feluletepito project.
+Repository of the Feluletepito project to create win32API application source codes easily and ultra fast.
 
 A Felületépítő szoftver és minden eleme (beleértve a segédprogramokat is) szabadon használható és másolható szoftver, kereskedelmi forgalomban azonban nem hozható.
 A szoftver eredetét tilos félreérthető módon feltüntetni bármilyen módon.
