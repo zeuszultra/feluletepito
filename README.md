@@ -13,7 +13,6 @@ All related rights reserved!
 Készítő/Creator: Krisztián Fehér
 28.12.2023
 
-![kép](https://github.com/zeuszultra/feluletepito/assets/116118578/1205072d-fa39-4fa9-be37-4158d294ba21)
 
 
 History:
