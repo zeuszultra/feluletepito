@@ -19,4 +19,5 @@ Krisztián Fehér
 ![kép](https://github.com/zeuszultra/feluletepito/assets/116118578/012111f1-e78f-4130-a1fc-c60200731639)
 
 History:
+
 2023.12.28. Initial commit.
