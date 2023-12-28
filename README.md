@@ -1,4 +1,8 @@
 # feluletepito
+
+Egyedi Win32API fejlesztőkészlet, C nyelvi támogatással. Fordítóprogramot nem tartalmaz.
+Custom Win32API Development kit  supporting C programming language. No compiler included.
+
 A Felületépítő szoftver és minden eleme (beleértve a segédprogramokat is) szabadon használható és másolható szoftver, kereskedelmi forgalomban azonban nem hozható.
 A szoftver(ek) eredetét tilos félreérthető módon feltüntetni bármilyen módon.
 A szoftver(ek) használata kizárólag saját felelősségre történhet! A készítő nem vállal semmiféle felelősséget a program használatából eredő semmiféle közvetlen, vagy közvetett kárért!
