@@ -1,4 +1,4 @@
-# feluletepito
+# Feluletepito
 
 Egyedi Win32API fejlesztőkészlet, C nyelvi támogatással. Fordítóprogramot nem tartalmaz.
 Custom Win32API Development kit  supporting C programming language. No compiler included.
