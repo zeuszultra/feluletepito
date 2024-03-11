@@ -21,5 +21,7 @@ Készítő/Creator: Krisztián Fehér
 
 History:
 -
+2024.03.11. Minor update to main version and tool name updates.
+-
 2023.12.28. Initial commit.
 -
